@@ -1,5 +1,7 @@
 package pl.sdacademy.pp.part1;
 
+/*Słowa podwójne*/
+
 public class Exercise7 {
     public boolean isADoubleWord(String word) {
         if (word.length() % 2 == 1) {

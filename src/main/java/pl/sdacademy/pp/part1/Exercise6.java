@@ -1,5 +1,7 @@
 package pl.sdacademy.pp.part1;
 
+/*Szyfr cezara.*/
+
 public class Exercise6 {
     static char[] alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".toCharArray();
     public void szyfr(String words) {

@@ -1,5 +1,8 @@
 package pl.sdacademy.pp.part1;
 
+
+/*Najdłuższy wspołny podłańcuch znaków*/
+
 public class Exercise9 {
     public void longestChain(String word0, String word1) {
         char [] shorter;

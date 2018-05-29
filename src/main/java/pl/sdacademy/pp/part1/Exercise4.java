@@ -10,6 +10,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+/*Suma liczb podanych w pliku.*/
+
 public class Exercise4 {
     public void inputSum(String file) {
         Integer numb = 0;
