@@ -1,1 +1,1 @@
-# sda-programowanie-1
+# kurs podstawy
